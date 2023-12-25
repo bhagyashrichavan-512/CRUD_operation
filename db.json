@@ -1,0 +1,32 @@
+{
+  "Student": [
+    {
+      "name": "bhagyashri",
+      "email": "bhagya@123",
+      "MobNo": "7666742262",
+      "id": 1
+    },
+    {
+      "name": "aish",
+      "email": "digheaishwarya6@gmail.com",
+      "MobNo": "23345667789",
+      "id": 2
+    },
+    {
+      "name": "aish",
+      "email": "digheaishwarya6@gmail.com",
+      "MobNo": "932235009265",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
