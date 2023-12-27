@@ -101,8 +101,8 @@ function Create() {
                               onChange={(e) => handleInputChange(e, 'name')}
                           />
                            {validationErrors.name && (
-      <div className="invalid-feedback">Required</div>
-    )}
+                              <div className="invalid-feedback">Required</div>
+                              )}
                           <label class="form-label" for="form3Example1c">
                             Your Name
                           </label>
